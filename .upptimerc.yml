@@ -5,6 +5,9 @@ repo: upptime # The name of this repository
 sites:
   - name: SOULEE.DEV
     url: https://soulee.dev
+  - name: Pool01
+    check: "tcp-ping"
+    url: $POOL01
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
