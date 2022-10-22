@@ -22,19 +22,17 @@
     "url": "$POOL01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pool01",
-    "status": "down",
-    "uptime": "6.98%",
-    "uptimeDay": "6.98%",
-    "uptimeWeek": "6.98%",
-    "uptimeMonth": "6.98%",
-    "uptimeYear": "6.98%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-10-22": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 303,
+    "timeDay": 303,
+    "timeWeek": 303,
+    "timeMonth": 303,
+    "timeYear": 303,
+    "dailyMinutesDown": {}
   }
 ]
