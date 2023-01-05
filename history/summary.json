@@ -22,7 +22,7 @@
     "url": "$POOL01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pool01",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
@@ -34,6 +34,7 @@
     "timeMonth": 342,
     "timeYear": 333,
     "dailyMinutesDown": {
+      "2023-01-05": 0,
       "2023-01-02": 6,
       "2022-12-31": 22,
       "2022-12-27": 23,
